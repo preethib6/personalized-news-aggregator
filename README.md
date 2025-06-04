@@ -14,7 +14,7 @@ Before running this project, ensure you have Python 3.x installed. You can check
 
 ```bash
 python --version
-
+```
 ## Setup `.env` File:
 
 In order for the application to access the necessary services (AWS and NewsAPI), you need to create a `.env` file in the root directory of the project.
